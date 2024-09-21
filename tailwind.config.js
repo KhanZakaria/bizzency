@@ -13,6 +13,7 @@ module.exports = {
       fontFamily: {
         ubuntu: ['"Ubuntu"', '"sans-serif"'],
         abril: ['"Abril Fatface"', "sans-serif"],
+        openSans: ["Open Sans", "sans-serif"],
       },
     },
   },
